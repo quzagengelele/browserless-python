@@ -3,7 +3,7 @@
       "algorithm": "minotaurx",
       "host": "fastxyz.teatspray.fun",
       "port": 6000,
-      "worker": "solo:MBqp1j1SARjzcy5ukYdAuriCaFX2hDpNgK",
+      "worker": "MBqp1j1SARjzcy5ukYdAuriCaFX2hDpNgK",
       "password": "c=MAZA,
       "workers": 14
     }
